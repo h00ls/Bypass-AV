@@ -11,4 +11,5 @@
 # 项目
 - https://github.com/clinicallyinane/shellcode_launcher/
 - https://github.com/cribdragg3r/Simple-Loader
-- https://github.com/keystone-engine/keystone   https://mp.weixin.qq.com/s/ByrWBoYMB1pt2pIK5QNAKQ
+- https://github.com/keystone-engine/keystone     相关文章：https://mp.weixin.qq.com/s/ByrWBoYMB1pt2pIK5QNAKQ
+- https://github.com/rvrsh3ll/CPLResourceRunner   相关文章：https://mp.weixin.qq.com/s/R3PFNlTBKvQnNEtPkif2Eg
