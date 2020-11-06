@@ -14,3 +14,4 @@
 - https://github.com/keystone-engine/keystone     相关文章：https://mp.weixin.qq.com/s/ByrWBoYMB1pt2pIK5QNAKQ
 - https://github.com/rvrsh3ll/CPLResourceRunner   相关文章：https://mp.weixin.qq.com/s/R3PFNlTBKvQnNEtPkif2Eg
 - https://github.com/Arno0x/ShellcodeWrapper
+- https://github.com/mdsecactivebreach/CACTUSTORCH   相关文章：https://xz.aliyun.com/t/7170    https://blog.csdn.net/qq_41683305/article/details/105183396
