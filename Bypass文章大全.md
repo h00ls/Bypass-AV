@@ -1,19 +1,16 @@
-# 文章
-## shellcode免杀
+## 网页木马
+- https://github.com/lufeirider/BypassShell  总结了一些php免杀木马
+
+
+
+
+
+## shellcode 免杀
+### 免杀文章
 - https://www.colabug.com/2020/0308/7093563/
 - https://my.oschina.net/u/4587690/blog/4408044
-
-## DLL劫持与Bypass
 - https://mp.weixin.qq.com/s/A72otmLwZm6WZfHQWzVp_w
-
-
-
-
-
-
-
-# 项目
-## shellcode 免杀
+### 免杀项目
 - https://github.com/clinicallyinane/shellcode_launcher/
 - https://github.com/cribdragg3r/Simple-Loader
 - https://github.com/keystone-engine/keystone     相关文章：https://mp.weixin.qq.com/s/ByrWBoYMB1pt2pIK5QNAKQ
