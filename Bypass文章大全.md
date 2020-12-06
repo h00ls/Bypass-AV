@@ -11,6 +11,7 @@
 - https://my.oschina.net/u/4587690/blog/4408044
 - https://mp.weixin.qq.com/s/A72otmLwZm6WZfHQWzVp_w
 ### 免杀项目
+- https://github.com/Screetsec/TheFatRat
 - https://github.com/clinicallyinane/shellcode_launcher/
 - https://github.com/cribdragg3r/Simple-Loader
 - https://github.com/keystone-engine/keystone     相关文章：https://mp.weixin.qq.com/s/ByrWBoYMB1pt2pIK5QNAKQ
